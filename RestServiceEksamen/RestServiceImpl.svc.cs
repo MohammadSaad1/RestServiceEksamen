@@ -22,7 +22,7 @@ namespace RestServiceEksamen
                 art = "abe",
                 navn = "kommi",
                 uge = 3
-            };
+            }; 
 
             Catches.Add(firstCatch);
         }
